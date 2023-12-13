@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gowrigs2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding
+- 🌱 I’m currently learning from this platform
 - 📫 How to reach me ...@gowrishankargs1502@gmail.com
 
 <!---
